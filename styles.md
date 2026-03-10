@@ -9,6 +9,10 @@ A design philosophy for AI that generates visual output.
 
 The problem is convergence. Every AI tends toward the same rounded cards, the same muted dark palettes, the same dashboard skeletons, the same hollow "premium" polish. This document exists to break that pattern — not by replacing it with another fixed style, but by teaching *how to think about design decisions*.
 
+**IMPORTENT TO READ AND FOLLOW ALWAYS**
+
+Do not select a palette from the reference tables by default. Derive the color direction from the specific brand, audience, and mood of the task. The reference palettes exist only as fallbacks when no contextual direction exists.
+
 **Use this as a filter, not a template.**
 
 ---
